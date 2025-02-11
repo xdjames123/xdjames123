@@ -1,8 +1,8 @@
 - 👋 Hi, I am Muhammad Jafar Sadiq
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning Mern stack
-- 💞️ ask me questions in full-stack development
-- 📫 Connect me through my Twitter,  Discord.
+- 👀 I’m interested in Backend development, Artificial Intelligence and Designing
+- 🌱 I’m currently learning and developing AI softwares using python
+- 💞️ Interact with me to exchange ideas and knowledge
+- 📫 Connect me through my instagram,  Discord.
 
 <!---
 xdjames123/xdjames123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
